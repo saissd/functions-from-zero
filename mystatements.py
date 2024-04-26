@@ -6,3 +6,5 @@ for i in my_list:
 
 for _,value in my_dict.items():
     print(f"my favourite to drink {value}")
+
+#my_dict = my_dict
